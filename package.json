@@ -1,0 +1,10 @@
+{
+ "name": "Kapłan",
+ "version": "1.0.0",
+ "description": "Cybernetyczny kapłan",
+ "main": "bot.js",
+ "author": "wski",
+ "dependencies": {
+  "discord.js": "^11.4.2"
+ }
+}
