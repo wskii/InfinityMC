@@ -159,4 +159,4 @@ client.on("message", async message => {
   }
 });
 
-client.login(config.token);
+client.login(process.env.gcSg_KI25rXOHRAZ5P9Zji1HjTJdyVgC);
